@@ -161,7 +161,7 @@
     } 
     @media screen and (max-width: 600px){
       body{
-        width: 400px;
+        width: 350px;
       }
       .second{
         display: flex;

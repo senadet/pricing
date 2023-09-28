@@ -151,6 +151,9 @@
       height: 17px;
      }
      @media screen and (min-width: 601px) and (max-width: 800px) {
+      .body {
+        width:fit-content;
+      }
       .second{
         display: flex;
         flex-direction: column;

@@ -160,15 +160,23 @@
       }
     } 
     @media screen and (max-width: 600px){
-      body{
-        width: 350px;
-      }
       .second{
         display: flex;
         flex-direction: column;
         height: 1500px;
-        padding-left: 20px;
-        width: 400px;
+        padding-left: 20px;        
              }
-      }
+            }      
+             @media screen and (max-width: 400px){
+              body {
+                width: 400px;
+              }
+             .second{
+               display: flex;
+               flex-direction: column;
+               height: 1500px;
+               padding-left: 20px;
+                    }
+                  }
+                       
      

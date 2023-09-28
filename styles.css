@@ -175,8 +175,19 @@
                display: flex;
                flex-direction: column;
                height: 1500px;
+               width: 400;
                padding-left: 20px;
                     }
+              .first{
+                width: 400px;
+              }
+              .proffesional{
+                width: 400px;
+              }
+              .same{
+                width: 400px;
+              }
+
                   }
                        
      
